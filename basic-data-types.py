@@ -15,3 +15,9 @@ print(type(a))
 print(type(b))
 #the output : <class 'str'>
 #the output : <class 'int'>
+
+#we also can check true or false of binary number boolean (get the output results)
+print(bool(1))
+print(bool(0))
+#the output : True
+#the output : False
