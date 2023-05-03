@@ -12,7 +12,10 @@ print("Hi Python")
 
 #Check version control of Python
 import sys
-print(sys.version)
-print(sys.winver)
-print(sys.gettrace)
-print(sys.argv)
+print(sys.version) #version control
+print(sys.winver) #(windows only) show the version number of the python DLL
+print(sys.gettrace) #get the global debug tracing function
+print(sys.argv) #show the parameters used while running the python program
+
+#display the documentation of modules, function, classes, keywords, etc
+help(sys)
