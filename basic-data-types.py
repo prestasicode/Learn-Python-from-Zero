@@ -22,6 +22,7 @@ print(bool(0))
 #the output : True
 #the output : False
 
+#check type of data without assigning a value
 # Integer
 print(type(15))
 print(type(-24))
