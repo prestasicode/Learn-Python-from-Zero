@@ -13,3 +13,5 @@ a = "IT company"
 print(a)
 print(type(a))
 print(type(b))
+#the output : <class 'str'>
+#the output : <class 'int'>
