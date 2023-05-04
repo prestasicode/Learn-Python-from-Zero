@@ -26,3 +26,10 @@ print(conv2)
 print(type(conv2))
 #10.0
 #<class 'float'>
+
+#convert conv1 string to integer using int() function
+conv3 = int(conv1)
+print(conv3)
+print(type(conv3))
+#10
+#<class 'int'>
