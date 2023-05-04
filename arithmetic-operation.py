@@ -40,9 +40,9 @@ print(type(data5))
 #34
 #<class 'int'>
 
-#floor division
-data5 = 1200//35
-print(data5)
-print(type(data5))
-#34
+#modulus
+data6 = 1200%35
+print(data6)
+print(type(data6))
+#10
 #<class 'int'>
