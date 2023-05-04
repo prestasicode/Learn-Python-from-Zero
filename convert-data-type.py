@@ -33,3 +33,16 @@ print(conv3)
 print(type(conv3))
 #10
 #<class 'int'>
+
+#convert boolean to integer, automatically assign binary number using int() function
+#1 for True, and 0 for False
+data1 = True
+data2 = False
+print(int(data1))
+print(type(data1))
+print(int(data2))
+print(type(data2))
+#1
+#<class 'bool'>
+#0
+#<class 'bool'>
