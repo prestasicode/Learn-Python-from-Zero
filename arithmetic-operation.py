@@ -46,3 +46,10 @@ print(data6)
 print(type(data6))
 #10
 #<class 'int'>
+
+#exponentiation
+data7 = 35**3
+print(data7)
+print(type(data7))
+#42875
+#<class 'int'>
