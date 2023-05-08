@@ -15,9 +15,15 @@ data = 'Hello World!'
 print(data[0])
 #H
 
+#string index get last element
+data = 'Hello World!'
+print(data[-1])
+#!
+
 # eighth element of data
 print(data[8])
 #r
 
 #len data
 len(data)
+#12
