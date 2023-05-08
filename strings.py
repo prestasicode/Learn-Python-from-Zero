@@ -9,3 +9,7 @@
 # Digitals and spaces in a string
 '3 6 9 2 6 8'
 #'3 6 9 2 6 8'
+
+#string index get first element
+data = 'Hello World!'
+print(data[0])
