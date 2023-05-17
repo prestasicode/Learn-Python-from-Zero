@@ -26,3 +26,8 @@ print(data2)
 print(data3)
 #output : Hi Python!
 #output : Hello World!
+#find
+data = 'Hello World!'
+print(data.find('Wo'))
+# the output is the index number of the first element of the substring
+#6
