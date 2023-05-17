@@ -24,3 +24,5 @@ data2 = data.replace('Hello', 'Hi')
 data3 = data.replace('Python', 'World')
 print(data2)
 print(data3)
+#output : Hi Python!
+#output : Hello World!
