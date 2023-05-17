@@ -17,3 +17,10 @@ print('Again lowercase: ', data_lower)
 data_title = data.title()
 print('The first element of the string is uppercase: ', data_title)
 #output : The first element of the string is uppercase: Hello Python!
+
+#find and replace string
+data = 'Hello Python!'
+data2 = data.replace('Hello', 'Hi')
+data3 = data.replace('Python', 'World')
+print(data2)
+print(data3)
